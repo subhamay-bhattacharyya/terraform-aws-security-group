@@ -1,0 +1,13 @@
+#### Version: 1.0.0
+Initial release of the Terraform AWS Security Group module.
+Version: 1.0.0
+Author: Subhamay Bhattacharyya
+Created: 25-Dec-2024
+Updated: 
+Description: This module creates and manages AWS Security Groups with specified ingress and egress rules using Terraform.
+
+## Features
+- Create security groups with specified ingress and egress rules
+- Support for tagging resources
+- Example usage provided in README
+- Default tags configuration
